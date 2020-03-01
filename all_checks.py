@@ -11,6 +11,9 @@ def print_str(text):
 def print_str2(text):
   print(text)
 
+def print_str3(text):
+  print(text)
+
 # main funtion
 def main():
   if check_reboot():
